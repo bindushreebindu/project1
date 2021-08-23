@@ -1,0 +1,25 @@
+body{
+	
+	
+	background-color: lightpink;
+    background-size:100%;
+	
+}
+form{
+	font-size:20px;
+	margin-top:10px;
+	
+	
+}
+a{
+	font-size:30px;
+}
+.logo
+{
+	 float: left;
+     padding-left:100px;
+}
+.logo img
+{
+	padding-left: 600px;
+}

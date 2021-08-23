@@ -1,0 +1,75 @@
+
+
+
+*{
+	margin:0px;
+	text-align:left;
+}
+body{
+	background-image:url("images/reg2.png");
+	background-attachment:fixed;
+	background-size:cover;
+	font-family:new time roman;
+}
+
+.group{
+	background-image:url("images/horror.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	width:450px;
+	height:330px;
+	margin-left:700px;
+	
+}
+
+
+.group1{
+	background-image:url("images/61.jpg");
+	background-position:left;
+	background-repeat:no-repeat;
+	width:650px;
+	height:300px;
+	margin-left:700px;
+	
+}
+.group2{
+	background-image:url("images/adventure.jpg");
+	background-position:left;
+	background-repeat:no-repeat;
+	width:450px;
+	height:300px;
+	margin-left:700px;
+}
+
+
+.group4{
+	background-image:url("images/children.jpg");
+	background-position:left;
+	background-repeat:no-repeat;
+	width:450px;
+	height:350px;
+	margin-left:700px;
+}
+.text1{
+	text-align:center-left;
+	margin-top:10px;
+	font-size:50px;
+	margin-left:700px;
+	color:darkred;
+	
+}
+a{
+	font-size:30px;
+	margin-left:500px;
+}
+.btn-info{
+	margin-top:20px;
+	width:200px;
+	font-size:23px;
+	background:gray;
+	border:0px;
+	border-radius:15px;
+	margin-left:700px;
+	text-align:center;
+	
+}
